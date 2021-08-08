@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarik0&layout=compact&material-palenight" alt="Welcome"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Welcome"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarik0&show_icons=true&theme=radical" alt="Welcome"/>
 </p>
 
 
