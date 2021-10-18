@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarık</h1>
-<h3 align="center">Freelancer, reverse engineer and a wanna-be full stack developer.</h3>
+<h3 align="center">Freelancer, reverse engineer, full-stack developer and wannabe security analyst.</h3>
 
 - 🔭 I’m currently working on **Blockchain Technologies.**
 
