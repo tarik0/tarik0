@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Blockchain Technologies.**
 
-- 🌱 I’m currently learning **Solidity, Ethers, Go-Ethereum.**
+- 🌱 I’m currently learning **Solidity, Ethers, Go-Ethereum, Flashbots.**
 
 - 👨‍💻 All of my public projects are available at [@tarik0](@tarik0)
 
-- 💬 You can ask me about **Solidity and DApps.** or hire me for your project! (Telegram: @HichigoR35)
+- 💬 You can ask me about **Solidity, DApps and more** or you can hire me for your project! (Telegram: [@HichigoR35](@HichigoR35))
 
-- ❤️ You can donate to support me & my projects! (ETH, BSC: 0x2d5da0a6ddddd7598ebba223cb82d3088e9c843a)
+- ❤️ You can donate to support me & my projects! (ETH, BSC: [0x2d5da0a6ddddd7598ebba223cb82d3088e9c843a](0x2d5da0a6ddddd7598ebba223cb82d3088e9c843a))
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarik0&show_icons=true&theme=nightowl&count_private=true" alt="Welcome"/>
