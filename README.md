@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Tarık (@tarik0)</h1>
-<h3 align="center">Freelancer, reverse engineer, full-stack developer and cyber security enjoyer.</h3>
+<h3 align="center">Freelancer, reverse engineer, full-stack developer, and cyber security enthusiast.</h3>
 </br>
 
 <div align="center">
@@ -11,14 +11,7 @@
 </div>
 </br>
 
-- ⛓️ I’m currently working on **Blockchain Technologies.**
-
-- 👨‍💻 All of my public projects are available at [@tarik0](https://github.com/tarik0)
-
-- 🔭 I’m currently interested at **MEV, Quant Development, Solidity Assembly, Smart Contract Security** 
-  * 🌱 Previous: **~~Solidity, Ethers, Go-Ethereum, Flashbots.~~**
-
-- 💬 You can ask me about **Solidity, DApps and more** or you can **hire me** for your project!
+- 💬 You can ask any questions, or you can **hire me** for your project!
   * ✨ Telegram: [@tarik0_eth](https://t.me/HichigoR35)
   * ✒️ Twitter: [@tarik0_eth](https://twitter.com/tarik0_eth)
 
