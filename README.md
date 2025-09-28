@@ -2,26 +2,9 @@
   <img src="https://raw.githubusercontent.com/tarik0/tarik0/main/banner.png" alt="Welcome"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Tarık (@tarik0)</h1>
-<h3 align="center">Freelancer, reverse engineer, full-stack developer, and cyber security enthusiast.</h3>
-</br>
-
 <div align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=tarik0&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=3" alt="Welcome"/>
 </div>
-</br>
-
-- 💬 You can ask any questions, or you can **hire me** for your project!
-  * ✨ Telegram: [@tarik0_eth](https://t.me/HichigoR35)
-  * ✒️ Twitter: [@tarik0_eth](https://twitter.com/tarik0_eth)
-
-- ❤️ You can donate to support me & my projects!
-  * ENS: [tarik0.eth](https://app.ens.domains/tarik0.eth)
-  * EVM: [0x9D3b16055aCcC713612a18aaBEFff9Db8163F9f5](https://etherscan.io/address/0x9D3b16055aCcC713612a18aaBEFff9Db8163F9f5)
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tarik0" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</p>
 </br>
 
 <div align="center">
