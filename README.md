@@ -2,6 +2,14 @@
   <img src="https://raw.githubusercontent.com/tarik0/tarik0/main/banner.png" alt="Welcome"/>
 </p>
 
+<h2 align="center">Software Developer @ BangerLabs</h3>
+<p align="center">
+• <b>Generative AI</b> – Agentic LLM infrastructure & autonomous systems<br>
+• <b>Crypto</b> – Smart contracts & dApps on SVM & EVM<br>
+• <b>Reverse Engineering</b> – Security research & vulnerability analysis
+</p>
+</br>
+
 <div align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=tarik0&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=3" alt="Welcome"/>
 </div>
