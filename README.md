@@ -10,9 +10,6 @@
 </p>
 </br>
 
-<div align="center">
-  <img align="center" src="https://https://github-trophies.vercel.app/?username=tarik0&theme=radical&no-frame=true&no-bg=true&column=-1&margin-w=3" alt="Welcome"/>
-</div>
 </br>
 
 <div align="center">
