@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tarik0/tarik0/main/banner.png" alt="Welcome"/>
 </p>
 
-<h2 align="center">Software Developer @ BangerLabs</h3>
+<h2 align="center">Full Stack Software Developer</h3>
 <p align="center">
 • <b>Generative AI</b> – Agentic LLM infrastructure & autonomous systems<br>
 • <b>Crypto</b> – Smart contracts & dApps on SVM & EVM<br>
