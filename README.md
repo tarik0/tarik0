@@ -1,11 +1,9 @@
 <p align="center">
   <img src="./banner.png" alt="tarik0"/>
 </p>
-
 <h3 align="center">researcher & developer —<br>AI agents, edge infrastructure, reverse engineering</h3>
 
 <hr>
-<br>
 
 <p align="center">
 <b>AI</b> — agent harnesses, LLM infrastructure and multi-agent runtimes that scale<br>
