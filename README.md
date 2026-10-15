@@ -2,7 +2,6 @@
   <img src="./banner.png" alt="tarik0"/>
 </p>
 <h3 align="center">researcher & developer —<br>AI agents, edge infrastructure, reverse engineering</h3>
-
 <hr>
 
 <p align="center">
