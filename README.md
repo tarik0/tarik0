@@ -5,7 +5,7 @@
 
 <p align="center">
 <b>AI</b> — agent harnesses, LLM infrastructure and multi-agent runtimes that scale<br>
-<b>Edge</b> — web apps on Cloudflare's edge with Svelte & React, built to scale from day one<br>
+<b>Edge</b> — web apps on Cloudflare's edge with Svelte & React<br>
 <b>Crypto</b> — smart contracts and on-chain infra across SVM & EVM<br>
 <b>Reverse Engineering</b> — taking binaries apart, security research, vulnerability analysis
 </p>
